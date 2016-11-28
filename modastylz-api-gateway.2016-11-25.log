@@ -1,0 +1,588 @@
+2586 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2595 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2595 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2594 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2578 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2579 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2578 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2579 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2605 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2606 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2607 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2608 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2618 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2620 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2620 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2621 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2793 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2794 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2794 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2793 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2824 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2825 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2825 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2831 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2873 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2876 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2876 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2880 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+1604865 [vert.x-eventloop-thread-4] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to send message
+io.vertx.core.eventbus.ReplyException: Timed out waiting for a reply
+	at io.vertx.core.eventbus.impl.HandlerRegistration.sendAsyncResultFailure(HandlerRegistration.java:117) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.HandlerRegistration.lambda$new$147(HandlerRegistration.java:64) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:738) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:709) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:335) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+5266 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+5266 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+5265 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+5265 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+7683 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+7683 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+7683 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+7687 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+7701 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+7702 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+7702 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+7703 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+17345 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+17351 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+17351 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+17351 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+17471 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+17472 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+17473 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+17474 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+17497 [vert.x-eventloop-thread-2] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to start HTTP Server
+java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_101]
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:125) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:485) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1089) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:440) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:425) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:903) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:198) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:329) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:350) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+17498 [vert.x-eventloop-thread-5] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to start HTTP Server
+java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_101]
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:125) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:485) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1089) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:440) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:425) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:903) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:198) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:329) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:350) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+17498 [vert.x-eventloop-thread-3] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to start HTTP Server
+java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_101]
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:125) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:485) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1089) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:440) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:425) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:903) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:198) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:329) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:350) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+17499 [vert.x-eventloop-thread-4] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to start HTTP Server
+java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_101]
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:125) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:485) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1089) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:440) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:425) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:903) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:198) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:329) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:350) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+2910 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2914 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2915 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2915 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2937 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2938 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2939 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2944 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2958 [vert.x-eventloop-thread-4] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to start HTTP Server
+java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_101]
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:125) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:485) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1089) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:440) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:425) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:903) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:198) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:329) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:350) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+2961 [vert.x-eventloop-thread-5] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to start HTTP Server
+java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_101]
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:125) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:485) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1089) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:440) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:425) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:903) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:198) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:329) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:350) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+2962 [vert.x-eventloop-thread-3] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to start HTTP Server
+java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_101]
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:125) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:485) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1089) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:440) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:425) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:903) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:198) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:329) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:350) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+7375 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+7379 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+7383 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+7387 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+7412 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+7412 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+7415 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+7416 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+7439 [vert.x-eventloop-thread-3] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to start HTTP Server
+java.net.BindException: Address already in use
+	at sun.nio.ch.Net.bind0(Native Method) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:433) ~[na:1.8.0_101]
+	at sun.nio.ch.Net.bind(Net.java:425) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223) ~[na:1.8.0_101]
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74) ~[na:1.8.0_101]
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:125) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:485) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1089) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:440) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:425) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:903) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:198) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:329) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:350) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+2789 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2789 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2790 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2789 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2819 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2822 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2822 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2823 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+2847 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2849 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2849 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2850 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+651733 [vert.x-eventloop-thread-4] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to send message
+io.vertx.core.eventbus.ReplyException: No handlers for address com.modastylz.api.message.bus.product
+	at io.vertx.core.eventbus.impl.HandlerRegistration.sendAsyncResultFailure(HandlerRegistration.java:117) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.EventBusImpl.deliverMessageLocally(EventBusImpl.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.clustered.ClusteredEventBus.lambda$sendOrPub$133(ClusteredEventBus.java:185) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.spi.cluster.hazelcast.impl.HazelcastAsyncMultiMap.lambda$get$30(HazelcastAsyncMultiMap.java:116) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.checkCallHandler(FutureImpl.java:158) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.setHandler(FutureImpl.java:100) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$null$16(ContextImpl.java:305) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:335) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+4469501 [vert.x-eventloop-thread-3] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to send message
+io.vertx.core.eventbus.ReplyException: Timed out waiting for a reply
+	at io.vertx.core.eventbus.impl.HandlerRegistration.sendAsyncResultFailure(HandlerRegistration.java:117) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.HandlerRegistration.lambda$new$147(HandlerRegistration.java:64) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:738) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:709) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:335) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+5275615 [vert.x-eventloop-thread-4] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to send message
+io.vertx.core.eventbus.ReplyException: Timed out waiting for a reply
+	at io.vertx.core.eventbus.impl.HandlerRegistration.sendAsyncResultFailure(HandlerRegistration.java:117) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.HandlerRegistration.lambda$new$147(HandlerRegistration.java:64) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:738) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:709) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:335) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+5400273 [vert.x-eventloop-thread-4] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to send message
+io.vertx.core.eventbus.ReplyException: Timed out waiting for a reply
+	at io.vertx.core.eventbus.impl.HandlerRegistration.sendAsyncResultFailure(HandlerRegistration.java:117) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.HandlerRegistration.lambda$new$147(HandlerRegistration.java:64) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:738) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:709) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:335) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+4452 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4452 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4451 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4451 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4477 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+4478 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+4479 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+4479 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+4488 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+4488 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+4488 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+4489 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+6701 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+6703 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+6703 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+6703 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+6724 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+6727 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+6727 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+6728 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8080
+6735 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+6736 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+6736 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+6737 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2626 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2630 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2631 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2632 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2656 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+2656 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+2657 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+2657 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+2669 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2669 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2669 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2673 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+5750722 [vert.x-eventloop-thread-4] ERROR c.m.a.g.r.RouteFailureConfigurator - Caught registered exception
+io.vertx.core.json.DecodeException: Failed to decode:Unexpected character ('t' (code 116)): was expecting a colon to separate field name and value
+ at [Source: {
+"brand:"test"
+}; line: 2, column: 10]
+	at io.vertx.core.json.Json.decodeValue(Json.java:79) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.json.JsonObject.fromJson(JsonObject.java:850) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.json.JsonObject.<init>(JsonObject.java:53) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.impl.RoutingContextImpl.getBodyAsJson(RoutingContextImpl.java:197) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at com.modastylz.api.gateway.routes.utils.RouteRequestUtility.getBodyForMessage(RouteRequestUtility.java:20) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at com.modastylz.api.gateway.routes.RouteProductConfigurator.updateProduct(RouteProductConfigurator.java:48) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.impl.RouteImpl.handleContext(RouteImpl.java:221) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.impl.RoutingContextImplBase.iterateNext(RoutingContextImplBase.java:78) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.impl.RoutingContextImpl.next(RoutingContextImpl.java:94) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.handler.impl.BodyHandlerImpl$BHandler.doEnd(BodyHandlerImpl.java:155) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.handler.impl.BodyHandlerImpl$BHandler.end(BodyHandlerImpl.java:141) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.handler.impl.BodyHandlerImpl.lambda$handle$34(BodyHandlerImpl.java:61) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.HttpServerRequestImpl.handleEnd(HttpServerRequestImpl.java:411) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.ServerConnection.handleEnd(ServerConnection.java:286) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.ServerConnection.processMessage(ServerConnection.java:404) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.ServerConnection.handleMessage(ServerConnection.java:134) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.HttpServerImpl$ServerHandler.doMessageReceived(HttpServerImpl.java:515) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.HttpServerImpl$ServerHandler.doMessageReceived(HttpServerImpl.java:421) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.VertxHttpHandler.lambda$channelRead$20(VertxHttpHandler.java:80) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:333) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:225) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.VertxHttpHandler.channelRead(VertxHttpHandler.java:80) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.net.impl.VertxHandler.channelRead(VertxHandler.java:124) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:276) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:263) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:846) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+5802421 [vert.x-eventloop-thread-4] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to send message
+io.vertx.core.eventbus.ReplyException: Timed out waiting for a reply
+	at io.vertx.core.eventbus.impl.HandlerRegistration.sendAsyncResultFailure(HandlerRegistration.java:117) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.HandlerRegistration.lambda$new$147(HandlerRegistration.java:64) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:738) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:709) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:335) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+6308717 [vert.x-eventloop-thread-2] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to send message
+io.vertx.core.eventbus.ReplyException: Timed out waiting for a reply
+	at io.vertx.core.eventbus.impl.HandlerRegistration.sendAsyncResultFailure(HandlerRegistration.java:117) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.HandlerRegistration.lambda$new$147(HandlerRegistration.java:64) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:738) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:709) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:335) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+6836285 [vert.x-eventloop-thread-3] ERROR c.m.a.g.r.RouteFailureConfigurator - Caught registered exception
+io.vertx.core.json.DecodeException: Failed to decode:Unrecognized token 'False': was expecting ('true', 'false' or 'null')
+ at [Source: {
+"imported":False
+}; line: 2, column: 17]
+	at io.vertx.core.json.Json.decodeValue(Json.java:79) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.json.JsonObject.fromJson(JsonObject.java:850) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.json.JsonObject.<init>(JsonObject.java:53) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.impl.RoutingContextImpl.getBodyAsJson(RoutingContextImpl.java:197) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at com.modastylz.api.gateway.routes.utils.RouteRequestUtility.getBodyForMessage(RouteRequestUtility.java:20) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at com.modastylz.api.gateway.routes.RouteProductConfigurator.updateProduct(RouteProductConfigurator.java:48) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.impl.RouteImpl.handleContext(RouteImpl.java:221) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.impl.RoutingContextImplBase.iterateNext(RoutingContextImplBase.java:78) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.impl.RoutingContextImpl.next(RoutingContextImpl.java:94) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.handler.impl.BodyHandlerImpl$BHandler.doEnd(BodyHandlerImpl.java:155) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.handler.impl.BodyHandlerImpl$BHandler.end(BodyHandlerImpl.java:141) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.handler.impl.BodyHandlerImpl.lambda$handle$34(BodyHandlerImpl.java:61) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.HttpServerRequestImpl.handleEnd(HttpServerRequestImpl.java:411) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.ServerConnection.handleEnd(ServerConnection.java:286) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.ServerConnection.processMessage(ServerConnection.java:404) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.ServerConnection.handleMessage(ServerConnection.java:134) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.HttpServerImpl$ServerHandler.doMessageReceived(HttpServerImpl.java:515) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.HttpServerImpl$ServerHandler.doMessageReceived(HttpServerImpl.java:421) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.VertxHttpHandler.lambda$channelRead$20(VertxHttpHandler.java:80) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:333) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:225) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.VertxHttpHandler.channelRead(VertxHttpHandler.java:80) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.net.impl.VertxHandler.channelRead(VertxHandler.java:124) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:276) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:263) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:846) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+6836517 [vert.x-eventloop-thread-3] ERROR c.m.a.g.r.RouteFailureConfigurator - Caught registered exception
+io.vertx.core.json.DecodeException: Failed to decode:Unrecognized token 'False': was expecting ('true', 'false' or 'null')
+ at [Source: {
+"imported":False
+}; line: 2, column: 17]
+	at io.vertx.core.json.Json.decodeValue(Json.java:79) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.json.JsonObject.fromJson(JsonObject.java:850) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.json.JsonObject.<init>(JsonObject.java:53) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.impl.RoutingContextImpl.getBodyAsJson(RoutingContextImpl.java:197) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at com.modastylz.api.gateway.routes.utils.RouteRequestUtility.getBodyForMessage(RouteRequestUtility.java:20) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at com.modastylz.api.gateway.routes.RouteProductConfigurator.updateProduct(RouteProductConfigurator.java:48) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.impl.RouteImpl.handleContext(RouteImpl.java:221) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.impl.RoutingContextImplBase.iterateNext(RoutingContextImplBase.java:78) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.impl.RoutingContextImpl.next(RoutingContextImpl.java:94) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.handler.impl.BodyHandlerImpl$BHandler.doEnd(BodyHandlerImpl.java:155) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.handler.impl.BodyHandlerImpl$BHandler.end(BodyHandlerImpl.java:141) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.ext.web.handler.impl.BodyHandlerImpl.lambda$handle$34(BodyHandlerImpl.java:61) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.HttpServerRequestImpl.handleEnd(HttpServerRequestImpl.java:411) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.ServerConnection.handleEnd(ServerConnection.java:286) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.ServerConnection.processMessage(ServerConnection.java:404) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.ServerConnection.handleMessage(ServerConnection.java:134) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.HttpServerImpl$ServerHandler.doMessageReceived(HttpServerImpl.java:515) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.HttpServerImpl$ServerHandler.doMessageReceived(HttpServerImpl.java:421) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.VertxHttpHandler.lambda$channelRead$20(VertxHttpHandler.java:80) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:333) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:225) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.http.impl.VertxHttpHandler.channelRead(VertxHttpHandler.java:80) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.net.impl.VertxHandler.channelRead(VertxHandler.java:124) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:276) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:263) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:318) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:304) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:846) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+2670 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2672 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2672 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2670 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2700 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+2700 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+2701 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+2702 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+2716 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2716 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2716 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+2717 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+12073 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+12075 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+12075 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+12075 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+12098 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+12098 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+12101 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+12101 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+12108 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+12108 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+12109 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+12109 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+83535 [vert.x-eventloop-thread-4] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to send message
+io.vertx.core.eventbus.ReplyException: No handlers for address com.modastylz.api.message.bus.color
+	at io.vertx.core.eventbus.impl.HandlerRegistration.sendAsyncResultFailure(HandlerRegistration.java:117) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.EventBusImpl.deliverMessageLocally(EventBusImpl.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.clustered.ClusteredEventBus.lambda$sendOrPub$133(ClusteredEventBus.java:185) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.spi.cluster.hazelcast.impl.HazelcastAsyncMultiMap.lambda$get$30(HazelcastAsyncMultiMap.java:116) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.checkCallHandler(FutureImpl.java:158) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.setHandler(FutureImpl.java:100) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$null$16(ContextImpl.java:305) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:335) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+4416 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4416 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4418 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4419 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4439 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+4439 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+4439 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+4439 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+4449 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+4450 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+4450 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+4450 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+16237 [vert.x-eventloop-thread-2] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to send message
+io.vertx.core.eventbus.ReplyException: No handlers for address com.modastylz.api.message.bus.color
+	at io.vertx.core.eventbus.impl.HandlerRegistration.sendAsyncResultFailure(HandlerRegistration.java:117) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.EventBusImpl.deliverMessageLocally(EventBusImpl.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.clustered.ClusteredEventBus.lambda$sendOrPub$133(ClusteredEventBus.java:185) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.spi.cluster.hazelcast.impl.HazelcastAsyncMultiMap.lambda$get$30(HazelcastAsyncMultiMap.java:116) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.checkCallHandler(FutureImpl.java:158) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.setHandler(FutureImpl.java:100) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$null$16(ContextImpl.java:305) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:335) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+9932 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+9932 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+9935 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+9936 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+9958 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+9958 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+9958 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+9959 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+9974 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+9974 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+9974 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+9975 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+80282 [vert.x-eventloop-thread-4] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to send message
+io.vertx.core.eventbus.ReplyException: No handlers for address com.modastylz.api.message.bus.color
+	at io.vertx.core.eventbus.impl.HandlerRegistration.sendAsyncResultFailure(HandlerRegistration.java:117) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.EventBusImpl.deliverMessageLocally(EventBusImpl.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.clustered.ClusteredEventBus.lambda$sendOrPub$133(ClusteredEventBus.java:185) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.spi.cluster.hazelcast.impl.HazelcastAsyncMultiMap.lambda$get$30(HazelcastAsyncMultiMap.java:116) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.checkCallHandler(FutureImpl.java:158) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.setHandler(FutureImpl.java:100) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$null$16(ContextImpl.java:305) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:335) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+97606 [vert.x-eventloop-thread-4] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to send message
+io.vertx.core.eventbus.ReplyException: No handlers for address com.modastylz.api.message.bus.color
+	at io.vertx.core.eventbus.impl.HandlerRegistration.sendAsyncResultFailure(HandlerRegistration.java:117) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.EventBusImpl.deliverMessageLocally(EventBusImpl.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.clustered.ClusteredEventBus.lambda$sendOrPub$133(ClusteredEventBus.java:185) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.spi.cluster.hazelcast.impl.HazelcastAsyncMultiMap.lambda$get$30(HazelcastAsyncMultiMap.java:116) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.checkCallHandler(FutureImpl.java:158) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.setHandler(FutureImpl.java:100) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$null$16(ContextImpl.java:305) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:335) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+415855 [vert.x-eventloop-thread-5] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to send message
+io.vertx.core.eventbus.ReplyException: No handlers for address com.modastylz.api.message.bus.color
+	at io.vertx.core.eventbus.impl.HandlerRegistration.sendAsyncResultFailure(HandlerRegistration.java:117) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.EventBusImpl.deliverMessageLocally(EventBusImpl.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.clustered.ClusteredEventBus.lambda$sendOrPub$133(ClusteredEventBus.java:185) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.spi.cluster.hazelcast.impl.HazelcastAsyncMultiMap.lambda$get$30(HazelcastAsyncMultiMap.java:116) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.checkCallHandler(FutureImpl.java:158) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.setHandler(FutureImpl.java:100) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$null$16(ContextImpl.java:305) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:335) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]

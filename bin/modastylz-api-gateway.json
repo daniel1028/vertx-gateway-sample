@@ -1,0 +1,7 @@
+{
+  "comment" : "This is bundled JSON file. Idea is that we should externalize this also as part of build. Currently this is going to hold the dev env information",
+  "http.port" : 8081,
+  "metrics.periodicity.seconds" : 300,
+  "message.bus.send.timeout.milliseconds" : 30000,
+  "request.body.size.max.mb" : 5
+}

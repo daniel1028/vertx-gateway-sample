@@ -1,0 +1,50 @@
+2618 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2624 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2625 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+2616 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+5312 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+5312 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+5316 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+5317 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+5340 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+5340 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+5340 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+5341 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+49181 [vert.x-eventloop-thread-5] ERROR c.m.a.g.bootstrap.ServerVerticle - Not able to send message
+io.vertx.core.eventbus.ReplyException: No handlers for address com.modastylz.api.message.bus.color
+	at io.vertx.core.eventbus.impl.HandlerRegistration.sendAsyncResultFailure(HandlerRegistration.java:117) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.EventBusImpl.deliverMessageLocally(EventBusImpl.java:348) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.eventbus.impl.clustered.ClusteredEventBus.lambda$sendOrPub$133(ClusteredEventBus.java:185) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.spi.cluster.hazelcast.impl.HazelcastAsyncMultiMap.lambda$get$30(HazelcastAsyncMultiMap.java:116) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.checkCallHandler(FutureImpl.java:158) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.FutureImpl.setHandler(FutureImpl.java:100) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$null$16(ContextImpl.java:305) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$18(ContextImpl.java:335) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:358) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:357) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:112) ~[modastylz-api-gateway-0.1-snapshot-fat.jar:na]
+	at java.lang.Thread.run(Thread.java:745) ~[na:1.8.0_101]
+4860 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4861 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4861 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4861 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4885 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+4885 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+4885 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+4886 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+4902 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+4903 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+4903 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+4904 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+4487 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4487 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4487 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4492 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Starting modastylz admin api ServerVerticle...
+4518 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+4518 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+4521 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+4521 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http server starting on port 8081
+4527 [vert.x-eventloop-thread-3] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+4528 [vert.x-eventloop-thread-2] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+4528 [vert.x-eventloop-thread-4] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
+4528 [vert.x-eventloop-thread-5] INFO  c.m.a.g.bootstrap.ServerVerticle - Http Server started successfully
